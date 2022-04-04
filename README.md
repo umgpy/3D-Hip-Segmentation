@@ -14,13 +14,13 @@ We aim to improve the segmentation of the hip joint.... brief discription......
 
 # Hypernetwork Architecture
 
-![Example architecture!](/figures/Test_fig1.png "Example fig1")
+![Example architecture!](./Test_fig1.png "Example fig1")
 
 The overall hypernetwork architecture shown above is implemented in networks/ensemble.py. 
 
 # Ensemble architecture 
 
-![Example hover annotation 2!](/figures/Test_fig2.png "Example fig2")
+![Example hover annotation 2!](./Test_fig2.png "Example fig2")
 
 
 # Usage
